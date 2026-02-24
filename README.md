@@ -185,7 +185,7 @@ When ready, run:
 docker compose up -d
 ```
 
-In ~15 seconds, head to `http://127.0.0.1:8080` (default) and check if
+In ~15 seconds, head to [http://127.0.0.1:8080](http://127.0.0.1:8080) (default) and check if
 everything's up and running.
 
 If you encounter any issues, you can check the logs by running:
@@ -234,7 +234,7 @@ When ready, run:
 docker compose up -d
 ```
 
-In ~30 seconds, head to `http://127.0.0.1:8080` (default) and check if
+In ~30 seconds, head to [http://127.0.0.1:8080](http://127.0.0.1:8080) (default) and check if
 everything's up and running.
 
 If you encounter any issues, you can check the logs by running:
